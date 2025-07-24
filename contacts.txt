@@ -1,0 +1,6 @@
+{"name": "A", "phone": "+931234567890", "email": "a@g.com", "tags": ["Myself"]}
+{"name": "b", "phone": "+9312345467891", "email": "b@g.com", "tags": ["Family"]}
+{"name": "C", "phone": "+931234567899", "email": "c@g.com", "tags": ["Work"]}
+{"name": "D", "phone": "+931234567893", "email": "d@g.com", "tags": ["Friends"]}
+{"name": "F", "phone": "+930987654321", "email": "f@g.com", "tags": ["Family"]}
+{"name": "H", "phone": "+930987654320", "email": "h@g.com", "tags": ["Family"]}
