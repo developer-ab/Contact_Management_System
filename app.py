@@ -226,7 +226,7 @@ elif choice == "Search Contact":
     st.subheader("Search Contact")
 
     # Input field for search pattern
-    pattern = st.text_input("Enter name, phone or tag (Regex supported)")
+    pattern = st.text_input("Enter name, phone or tag")
     if st.button("Search"):
         try:
             # Perform search and display results
